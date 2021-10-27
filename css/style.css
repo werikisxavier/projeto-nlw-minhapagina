@@ -76,6 +76,7 @@ a {
   align-items: center;
 }
 
+
 p{
     margin-top: 2rem;
 
@@ -91,5 +92,16 @@ ul{
     gap: 0.5rem;
 
     justify-content: center;
+}
+
+li a:hover{
+  border-color: rgba(41, 34, 34, 0.486);
+  border-width: 5px;
+  border-style: outset;
+  margin: 6px;
+  transition-duration: 0.4s;
+
+  
+
 }
 
