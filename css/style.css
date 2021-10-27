@@ -101,8 +101,17 @@ li a:hover{
   border-style: outset;
   margin: 6px;
   transition-duration: 0.4s;
+}
 
-  
+div#linkedln a:hover {
+  border-color: rgba(41, 34, 34, 0.486);
+  border-width: 10px;
+ border-radius: 20px;
+  border-style: outset;
+  transition-duration: 0.4s;
+}
 
+div#linkedln a img {
+  border-radius: 20px;
 }
 
